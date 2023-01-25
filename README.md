@@ -34,7 +34,9 @@ git clone https://github.com/rhodyapps/Comsc210-2023
 
 When it finishes, click on the File>Open in the top toolbar and open the folder: comsc210-labs
 
-6. Click on the folder icon in the tool menu on the left and you should see the ‘src’ folder, click on the src folder and you should see all the program examples.
+6. Click on the folder icon in the tool menu on the left and you should see the ‘ASM’ folder, this is the folder for assembly language code examples for this course.
+
+Github CheatSheet:
 
 Below are some commonly used Git commands
 
