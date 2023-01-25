@@ -3,7 +3,7 @@ Labs and Projects for COMSC210
 
 GitHub Cheat Sheet & Setup Notes - Comsc210
 
-If you are new to web development you will need to install the following on your computer:
+Setup your laptop for development:
 
 VS Code - This is an Integrated Development Environment that includes a code editor, extensions for many languages, and Github support. Download and install VS Code:
 https://code.visualstudio.com/Download
@@ -21,7 +21,9 @@ Github Repository for Comsc210 Lab Assignment Code Examples
 The example programs for our lab projects are posted in a Github repository
 https://github.com/rhodyapps/Comsc210-Labs
 
-Follow these steps to clone the repository:
+How to clone a Repository:
+
+Follow these steps to clone a repository:
 1. Create a folder called ‘Github’ in your documents folder on your local harddrive. In that folder create another called ‘Comsc210’
 2. Open VS Code and click on ‘Terminal’ in the toolbar at the top of the screen
 3. In the terminal window type ‘ls’ and then enter key. look for the ‘documents’ folder in the list. 
