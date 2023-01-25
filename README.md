@@ -19,7 +19,7 @@ https://github.com
 
 Github Repository for Comsc210 Lab Assignment Code Examples
 The example programs for our lab projects are posted in a Github repository
-https://github.com/rhodyapps/Comsc210-Labs
+https://github.com/rhodyapps/Comsc210-2023
 
 How to clone a Repository:
 
@@ -30,7 +30,7 @@ Follow these steps to clone a repository:
 4. Type ‘cd documents’ and enter key then ‘cd comsc210’ enter key
 Now you should see the comsc210 folder name in the command prompt
 5. Clone the repo by entering the following command:
-git clone https://github.com/rhodyapps/Comsc210-Labs
+git clone https://github.com/rhodyapps/Comsc210-2023
 
 When it finishes, click on the File>Open in the top toolbar and open the folder: comsc210-labs
 
