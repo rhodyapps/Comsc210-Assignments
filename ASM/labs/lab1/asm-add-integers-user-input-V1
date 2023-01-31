@@ -1,0 +1,38 @@
+#   Roger Williams University COMS210
+#   
+#   Author: 		T Newman
+#   Program: 		Add Two Integers
+#   Date:		1/17/2023
+
+.data
+message:    .asciiz "Adding Integers \n"
+prompt1:    .asciiz "Enter the first integer: "
+prompt2:    .asciiz "\n Enter the second integer: "
+result:     .asciiz "\n The Sum is: "
+
+
+.text     
+        la $a0,message      # This instruction loads the address of our message into register $a0
+        li $v0,4            # This instruction is loading the value 4 into register $v0
+        syscall             # This instruction calls system function(4) - print the message
+        
+      #  li $t1, 3	    # Here we enter the first number we want to add into register $t1
+      # li $t2, 4	    # Next we enter the second number we want to add into register $t2
+      #  add $t1, $t1, $t2   # finally we execute the 'add' instruction and the computer adds the two values and stores the result in $t1
+	
+	la $a0,prompt1      # This instruction prompts the user for the first integer
+        li $v0,4            #
+        syscall             # 
+        
+        la $a0,prompt2      # This instruction prompts the user for the second integer
+        li $v0,4            #
+        syscall  
+        
+	# move $a0, $t1
+	# li $v0, 1
+	# syscall
+
+
+        li $v0,10           # This instruction loads the value 10 into $v0
+        syscall             # This instruction calls system function(10) which will terminate the program
+
