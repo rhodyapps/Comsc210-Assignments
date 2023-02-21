@@ -3,6 +3,9 @@
 # TNewman
 #  Based on programs posted by Mike Dank at https://github.com/Famicoman/Euclidean-MIPS
 
+# This program works but is not modular.
+# Programming exercise: Re-write this program to use a main program with function calls
+# Add program documentation to show the Pseudocode for Euclids Algotithm and the Registers that will be used
 
 ############ Data Section #######################
 
