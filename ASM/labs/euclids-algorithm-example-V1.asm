@@ -1,5 +1,5 @@
 # COMSC210 - Euclid Algorithm - Iterative
-# 2/22/2021
+# 2/2023
 # TNewman
 #  Based on programs posted by Mike Dank at https://github.com/Famicoman/Euclidean-MIPS
 
