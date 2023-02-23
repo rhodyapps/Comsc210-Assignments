@@ -7,7 +7,7 @@ using namespace std;
 
 int gcd_iterative(int a, int b);
 
-void main()
+int main()
 {
     int a, b;
 	
