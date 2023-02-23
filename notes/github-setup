@@ -1,5 +1,14 @@
 GitHub Cheat Sheet & Setup Notes - Comsc210
 
+Setting up VS Code for C/C++
+1. Install VS Code
+2. Install the C/C++ extensions
+3. Install Code Runner extension
+4. In the Code Runner settings (gear wheel>extension settings)
+click on the 'Run in Terminal' checkbox
+3. MAC OS: Check if you have a compiler, open a terminal and run the collowing command: 
+clang 
+
 If you are new to web development you will need to install the following on your computer:
 
 VS Code - This is an Integrated Development Environment that includes a code editor, extensions for many languages, and Github support. Download and install VS Code:
