@@ -11,8 +11,10 @@ int main()
 {
     int a, b;
 	
-	cout << "Please enter two positive integers:\n";
-	cin >> a >> b;
+	cout << "Please enter a positive integer: \n";
+	cin >> a;
+	cout << "Please enter another positive integer: \n";
+	cin >> b;
 	cout << "\nYou entered a = " << a << " b = " << b << endl;
 	
 	cout << "\nIterative GCD is " << gcd_iterative(a, b) << endl << endl;
