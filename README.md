@@ -1,5 +1,5 @@
 # Comsc210-Assignments
-Labs and Projects for COMSC210
+Lab Assignments and Projects for COMSC210
 
 GitHub Cheat Sheet & Setup Notes - Comsc210
 
