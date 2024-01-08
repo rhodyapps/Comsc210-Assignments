@@ -1,4 +1,4 @@
-# Comsc210-2023
+# Comsc210-Assignments
 Labs and Projects for COMSC210
 
 GitHub Cheat Sheet & Setup Notes - Comsc210
