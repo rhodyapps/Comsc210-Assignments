@@ -4,7 +4,7 @@
 #
 #         Desription:   Determine How Many Vowels are in a String of Text
 #         
-#         Programmer: Tom Newman
+#         Programmer: TN
 #               Date: 9/2016
 #
 ################################################################################
