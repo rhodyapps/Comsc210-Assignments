@@ -1,6 +1,6 @@
 # 
 # Program Name:  ADD Even Numbers to a Limit Value Using Subroutines
-# Programmer:    Tom Newman
+# Programmer:    TN
 # Date:          9/2016
 #
 # 
